@@ -51,4 +51,4 @@ Contact
 If you have any questions, feel free to reach out:
 
 Email: pethaniyash11@gmail.com
-GitHub: YashPethani
+GitHub: https://github.com/YashPethani

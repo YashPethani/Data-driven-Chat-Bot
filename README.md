@@ -1,4 +1,5 @@
 ChatBot Projects
+
 This repository contains three Jupyter notebooks that demonstrate the development of chatbot applications using different approaches. These projects are designed to help you build, modify, and understand chatbot functionalities with Python.
 
 Notebooks
@@ -20,8 +21,8 @@ Required Python libraries (specified in the requirements.txt or within each note
 ---------Installation----------
 1)Clone this repository:Copy code
 
-git clone https://github.com/yourusername/chatbot-projects.git
-cd chatbot-projects
+git clone https://github.com/YashPethani/Data-driven-Chat-Bot.git
+cd Data-driven-Chat-Bot
 
 2)Install the required Python packages:Copy code
 
